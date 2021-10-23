@@ -2,5 +2,6 @@
 
 ![github](https://user-images.githubusercontent.com/90817111/133566815-cb6dade5-fc37-4109-b872-94486ae88815.gif)
 
-_My name is Javier and I am a barcelonian developer passionate about the digital world and new technologies.
-_Here you can find the repositories of some of the projects I have created.
+_My name is Javier and I am a barcelonian developer passionate about the digital world and new technologies._
+
+_Here you can find the repositories of some of the projects I have created._
